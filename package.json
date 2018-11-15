@@ -1,0 +1,25 @@
+{
+  "name": "npm-js-footer-vid",
+  "version": "0.1.0",
+  "description": "This is the second version of that video that we apparantly gave the wrong name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinaanderson/devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Devin <daa7896@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devinaanderson/devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/devinaanderson/devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
